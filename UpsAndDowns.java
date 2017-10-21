@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.*;
 import java.io.*;
-
+//Java is thr s c e n e
 class  UpsAndDowns {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
